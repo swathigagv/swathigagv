@@ -114,10 +114,11 @@ Github: https://github.com/swathigagv/amazoncloneUI
 
 ## 📊 GitHub Stats
 
-![Swathiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=swathigagv&show_icons=true&theme=tokyonight)
+![Swathiga's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swathigagv&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swathigagv&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swathigagv&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=swathigagv&theme=tokyonight) 
 ---
 
 ## 📫 Connect With Me
